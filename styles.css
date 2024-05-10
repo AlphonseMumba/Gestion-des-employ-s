@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input[type="text"] {
+    width: 200px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    margin-top: 10px;
+  }
+  
+  #employeeList {
+    margin-top: 20px;
+  }
+  Dzdzd cc de des
+  #employeeList li {
+    margin-bottom: 5px;
+  }
+  
+  #employeeList button {
+    margin-left: 10px;
+  }
+  
